@@ -1,0 +1,15 @@
+*{
+    background-image: url("wallpaper_add.jpg");
+    background-size: cover;
+}
+.middle{
+    position: fixed;
+    margin-left: 30%;
+    border: 5px solid black;
+    width: 350px;
+    height: 250px;
+    padding-top: 25px;
+    padding-left: 25px;
+    border-radius: 30%;
+    background-color: chartreuse;
+}
