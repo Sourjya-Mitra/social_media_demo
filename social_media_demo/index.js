@@ -11,7 +11,7 @@ const connection = mysql.createConnection({
     host:'localhost',
     user:'root',
     database:'delta_app',
-    password: 'Viratkohli@18'
+    password: '****'
 });
 //parsing the data
 app.use(express.urlencoded({extended:true}));
